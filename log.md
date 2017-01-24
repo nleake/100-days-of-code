@@ -7,3 +7,13 @@
 **Thoughts:** I still want to add some Javascript to make the page more dynamic, but am happy with how minimal the site is. I will have to add real links in the Registry section after we have completed those tasks, as well as adding transportation information.
 
 **Link to work:** [Wedding Website](http://www.nickelissawedding.com)
+
+
+### Day 1: January 23, 2017
+
+**Today's Progress**: Worked on simplifying some of the CSS on my portfolio website since I don't fully understand how to use Flexbox yet. Will continue to try and learn it, though, as it appears to be valuable. I also started General Assembly's Front-End Web Development course today, so I created a couple of basic HTML and CSS pages to brush up on those skills. 
+
+**Thoughts:** I may take one of the basic pages concerning a cookie recipe and transform that into a creative side project. Should be a fun subject to experiment with Javascript and design on. We shall see. I also need to fix the social links in the footer of my portfolio page.
+
+**Link to work:** [Basic Webpages for GA Day 1](https://github.com/nleake/hello-world/tree/master/ga_press_release)
+
