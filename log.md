@@ -17,3 +17,20 @@
 
 **Link to work:** [Basic Webpages for GA Day 1](https://github.com/nleake/hello-world/tree/master/ga_press_release)
 
+
+
+### Day 2: January 24, 2017
+
+**Today's Progress**: Read about flexbox and trying to teach myself how to improve the CSS on my portfolio website. A fellow Twitter user suggested that I check out flexbox froggy in order to learn the mechanics.
+
+**Thoughts:** Though I didn't do much actual coding today, I am committed to finishing this flexbox tutorial. I'll need to sit down for an hour or two over the next two days to finish it. 
+
+**Link to work:** [Understanding flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.wqk4go6om)
+
+### Day 2: January 24, 2017
+
+**Today's Progress**: Today in FEWD30 we reviewed CSS basics and worked on creating portfolio pages for ourselves. I already have another portfolio website in the works, but I think that building one without bootstrap and flexbox will prove useful to my fundamental knowledge.
+
+**Thoughts:** I will need to put together the actual portfolio section of the site tomorrow, and connect it with the About Me section. I'll try to find some more creative ways to style the content as well.
+
+**Link to work:** [Personal Portfolio]((https://github.com/nleake/personalPortfolio))
