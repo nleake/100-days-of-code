@@ -27,10 +27,19 @@
 
 **Link to work:** [Understanding flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.wqk4go6om)
 
-### Day 2: January 24, 2017
+### Day 3: January 25, 2017
 
 **Today's Progress**: Today in FEWD30 we reviewed CSS basics and worked on creating portfolio pages for ourselves. I already have another portfolio website in the works, but I think that building one without bootstrap and flexbox will prove useful to my fundamental knowledge.
 
 **Thoughts:** I will need to put together the actual portfolio section of the site tomorrow, and connect it with the About Me section. I'll try to find some more creative ways to style the content as well.
 
-**Link to work:** [Personal Portfolio]((https://github.com/nleake/personalPortfolio))
+**Link to work:** [Personal Portfolio](https://github.com/nleake/personalPortfolio)
+
+### Day 4: January 27, 2017
+
+**Today's Progress**: Altered the links in the wedding portfolio site to open to our newly created registries, as well as open in new tabs. I mainly focused on alterations to the portfolio site that I've been building from scratch. I've decided to take inspiration from Kellogg's Frosted Flakes and brand my services akin to a cereal.
+
+**Thoughts:** Building a parralax style page for my portfolio, modeled after a cereal marketing scheme, is fun and challenging so far. There are some uneven lines on the page that I'd like to recreate, as well as figuring out how to create my own grid system or get the divs to sit side by side and still be responsive. Another day, another thing to learn :)
+
+**Link to work:** [Personal Portfolio](https://github.com/nleake/personalPortfolio/tree/master)
+
