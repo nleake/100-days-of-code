@@ -55,4 +55,13 @@
 **Link to work:** [Personal Portfolio](https://github.com/nleake/personalPortfolio/tree/master)
 
 
+### Day 6: January 30, 2017
+
+**Today's Progress**: Continued working on the portfolio. Settled on the banner image and text floating for now. Also added in pictures for my experiences section and continued playing around with the box model. Will be reviewing that further during FEWD30 at GA tonight.
+
+**Thoughts:** Still gotta finish this flexbox tutorial and get started on the JS for freeCodeCamp. Maybe later.
+
+**Link to work:** [Personal Portfolio](https://github.com/nleake/personalPortfolio/tree/master)
+
+
 
