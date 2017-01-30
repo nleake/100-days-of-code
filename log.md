@@ -27,6 +27,7 @@
 
 **Link to work:** [Understanding flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.wqk4go6om)
 
+
 ### Day 3: January 25, 2017
 
 **Today's Progress**: Today in FEWD30 we reviewed CSS basics and worked on creating portfolio pages for ourselves. I already have another portfolio website in the works, but I think that building one without bootstrap and flexbox will prove useful to my fundamental knowledge.
@@ -35,6 +36,7 @@
 
 **Link to work:** [Personal Portfolio](https://github.com/nleake/personalPortfolio)
 
+
 ### Day 4: January 27, 2017
 
 **Today's Progress**: Altered the links in the wedding portfolio site to open to our newly created registries, as well as open in new tabs. I mainly focused on alterations to the portfolio site that I've been building from scratch. I've decided to take inspiration from Kellogg's Frosted Flakes and brand my services akin to a cereal.
@@ -42,4 +44,15 @@
 **Thoughts:** Building a parralax style page for my portfolio, modeled after a cereal marketing scheme, is fun and challenging so far. There are some uneven lines on the page that I'd like to recreate, as well as figuring out how to create my own grid system or get the divs to sit side by side and still be responsive. Another day, another thing to learn :)
 
 **Link to work:** [Personal Portfolio](https://github.com/nleake/personalPortfolio/tree/master)
+
+
+### Day 5: January 29, 2017
+
+**Today's Progress**: Continued working on the portfolio. Specifically, am trying to figure out how I can get a banner image in the header with text overlaying it to behave nicely when adjusting to different screen sizes.
+
+**Thoughts:** I'll have to check out the Codecademy responsiveness project I worked on a few months ago, as I believe that had a similiar images with text overlays that I may wish to copy. I'm still having trouble deciding on whether it should be a full width image at desktop sizes, or the if the image should be floating to the left. Going to try and commit to learning flexbox tomorrow, work allowing.
+
+**Link to work:** [Personal Portfolio](https://github.com/nleake/personalPortfolio/tree/master)
+
+
 
