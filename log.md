@@ -65,3 +65,11 @@
 
 
 
+### Day 7: January 31, 2017
+
+**Today's Progress**: Worked on creating the Relaxr single column home page according to the provided PSD. 
+
+**Thoughts:** Interesting exercise for the CSS box model. Will need to consult with the teacher or perform additional research in order to better match the styles from the PSD.
+
+**Link to work:** [Relaxr Website](https://github.com/nleake/FEWD30/tree/master/Week_02_Styling/assignment/starter_code)
+
