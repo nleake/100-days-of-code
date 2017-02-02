@@ -11,7 +11,7 @@
 
 ### Day 1: January 23, 2017
 
-**Today's Progress**: Worked on simplifying some of the CSS on my portfolio website since I don't fully understand how to use Flexbox yet. Will continue to try and learn it, though, as it appears to be valuable. I also started General Assembly's Front-End Web Development course today, so I created a couple of basic HTML and CSS pages to brush up on those skills. 
+**Today's Progress**: Worked on simplifying some of the CSS on my portfolio website since I don't fully understand how to use Flexbox yet. Will continue to try and learn it, though, as it appears to be valuable. I also started General Assembly's Front-End Web Development course today, so I created a couple of basic HTML and CSS pages to brush up on those skills.
 
 **Thoughts:** I may take one of the basic pages concerning a cookie recipe and transform that into a creative side project. Should be a fun subject to experiment with Javascript and design on. We shall see. I also need to fix the social links in the footer of my portfolio page.
 
@@ -23,7 +23,7 @@
 
 **Today's Progress**: Read about flexbox and trying to teach myself how to improve the CSS on my portfolio website. A fellow Twitter user suggested that I check out flexbox froggy in order to learn the mechanics.
 
-**Thoughts:** Though I didn't do much actual coding today, I am committed to finishing this flexbox tutorial. I'll need to sit down for an hour or two over the next two days to finish it. 
+**Thoughts:** Though I didn't do much actual coding today, I am committed to finishing this flexbox tutorial. I'll need to sit down for an hour or two over the next two days to finish it.
 
 **Link to work:** [Understanding flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.wqk4go6om)
 
@@ -67,9 +67,17 @@
 
 ### Day 7: January 31, 2017
 
-**Today's Progress**: Worked on creating the Relaxr single column home page according to the provided PSD. 
+**Today's Progress**: Worked on creating the Relaxr single column home page according to the provided PSD.
 
 **Thoughts:** Interesting exercise for the CSS box model. Will need to consult with the teacher or perform additional research in order to better match the styles from the PSD.
 
 **Link to work:** [Relaxr Website](https://github.com/nleake/FEWD30/tree/master/Week_02_Styling/assignment/starter_code)
 
+
+### Day 8: February 2, 2017
+
+**Today's Progress**: Continued experimenting with the CSS box model, divs, and classes. I also updated the links on the Things to Do page of the wedding website. Also, I started freeCodeCamps Javascript lessons. Also updated the Relaxr website.
+
+**Thoughts:** Still need to write case studies for my portfolio. I think I may add some interactivity to the wedding site with JS or jQuery if I can find anywhere useful for it. I will have to pick Eloquent Javascript back up soon. Homework is to finish the Relaxr landing page.
+
+**Link to work:** [Relaxr Website](https://github.com/nleake/FEWD30/tree/master/relaxr)
