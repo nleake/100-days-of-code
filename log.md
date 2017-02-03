@@ -81,3 +81,11 @@
 **Thoughts:** Still need to write case studies for my portfolio. I think I may add some interactivity to the wedding site with JS or jQuery if I can find anywhere useful for it. I will have to pick Eloquent Javascript back up soon. Homework is to finish the Relaxr landing page.
 
 **Link to work:** [Relaxr Website](https://github.com/nleake/FEWD30/tree/master/relaxr)
+
+### Day 9: February 3, 2017
+
+**Today's Progress**: Continued practicing Javascript on freeCodeCamp. Coded a couple of lines to demonstrate the idea of a queue where one number gets added to the end of an array, while the first number gets removed and returned. 
+
+**Thoughts:** Going to try and focus on learning Javascript in my spare time as that should be supplement the HTML/CSS practice I will be getting in the General Assembly class. Busy day at work, so I still have to write those case studies, finish the Udacity course, and do that flexbox walkthrough. However, I do think getting up to speed with Javascript will provide a much greater return in the immediate future. Stay tuned.
+
+**Link to work:** [Javascript Practice](https://github.com/nleake/freeCodeCampExercises)
