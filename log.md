@@ -81,3 +81,11 @@
 **Thoughts:** Still need to write case studies for my portfolio. I think I may add some interactivity to the wedding site with JS or jQuery if I can find anywhere useful for it. I will have to pick Eloquent Javascript back up soon. Homework is to finish the Relaxr landing page.
 
 **Link to work:** [Relaxr Website](https://github.com/nleake/FEWD30/tree/master/relaxr)
+
+### Day 9: February 3, 2017
+
+**Today's Progress**: Worked on completing the Relaxr site. Added a larger bottom margin to the top container to accommodate smaller screen sizes. Also started reading a 2017 guide to Front-End development.
+
+**Thoughts:** Gonna try to knock out reading this guide, but am going to continue doing freeCodeCamp JS lessons tomorrow. May also try to write the case studies for my portfolio, time permitting.
+
+**Link to work:** [Relaxr Website](https://github.com/nleake/FEWD30/tree/master/relaxr)
