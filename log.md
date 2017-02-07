@@ -89,3 +89,12 @@
 **Thoughts:** Gonna try to knock out reading this guide, but am going to continue doing freeCodeCamp JS lessons tomorrow. May also try to write the case studies for my portfolio, time permitting.
 
 **Link to work:** [Relaxr Website](https://github.com/nleake/FEWD30/tree/master/relaxr)
+
+
+### Day 10: February 6, 2017
+
+**Today's Progress**: Started Eloquent Javascript and continued working on the freeCodeCamp JS tutorials. Cleaned up the background image for the Relaxr landing page and starting creating a prototype blogs page.
+
+**Thoughts:** Going to continue focusing on learning JS. Learned about floats and clears today in FEWD30. Looking forward to learning flexbox afterwards as advances in grid systems seem to have made these CSS properties obsolete?
+
+**Link to work:** [Eloquent Javascript](http://eloquentjavascript.net/)
