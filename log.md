@@ -98,3 +98,11 @@
 **Thoughts:** Going to continue focusing on learning JS. Learned about floats and clears today in FEWD30. Looking forward to learning flexbox afterwards as advances in grid systems seem to have made these CSS properties obsolete?
 
 **Link to work:** [Eloquent Javascript](http://eloquentjavascript.net/)
+
+### Day 11: February 8, 2017
+
+**Today's Progress**: Continued working on Eloquent Javascript. I created a webpage with a more complex layout in FEWD30 today; the idea for the page is a website that helps people find developers and designers for their ideas. I am also working on a blog page for Relaxr.
+
+**Thoughts:** Going to continue focusing on learning JS. Still looking forward to learning flexbox afterwards. Am also thinking that I will redesign my wedding website in order to reduce clutter and make things more readable.
+
+**Link to work:** [Startup Matchmaker](https://github.com/nleake/FEWD30/tree/master/startup_matchmaker)
