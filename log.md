@@ -106,3 +106,11 @@
 **Thoughts:** Going to continue focusing on learning JS. Still looking forward to learning flexbox afterwards. Am also thinking that I will redesign my wedding website in order to reduce clutter and make things more readable.
 
 **Link to work:** [Startup Matchmaker](https://github.com/nleake/FEWD30/tree/master/startup_matchmaker)
+
+### Day 12: February 11, 2017
+
+**Today's Progress**: Still working on Eloquent Javascript.
+
+**Thoughts:** Moving a bit slower than I would like. It's been a busy week, but in a good way. Just not for coding, I suppose. However, I will not be deterred! Going to sit down for some odd hours over the next few days and really try to crank this book out.
+
+**Link to work:** [Eloquent Javascript](http://eloquentjavascript.net/)
