@@ -114,3 +114,11 @@
 **Thoughts:** Moving a bit slower than I would like. It's been a busy week, but in a good way. Just not for coding, I suppose. However, I will not be deterred! Going to sit down for some odd hours over the next few days and really try to crank this book out.
 
 **Link to work:** [Eloquent Javascript](http://eloquentjavascript.net/)
+
+### Day 13: February 13, 2017
+
+**Today's Progress**: Continuing work on Eloquent JS. Also started intro to programming in FEWD class. Learned about event listeners and starting to manipulate the DOM using JS.
+
+**Thoughts:** The class did a good job of easing folks into event listeners and getting us to start working with pseudo code. I also liked that we went over some troubleshooting use cases for console.log function.
+
+**Link to work:** [Traffic Light JS](http://codepen.io/lichi/pen/vgbxNM)
