@@ -122,3 +122,19 @@
 **Thoughts:** The class did a good job of easing folks into event listeners and getting us to start working with pseudo code. I also liked that we went over some troubleshooting use cases for console.log function.
 
 **Link to work:** [Traffic Light JS](http://codepen.io/lichi/pen/vgbxNM)
+
+### Day 14: February 15, 2017
+
+**Today's Progress**: Today I worked on learning jQuery and how to start moving around the DOM. We built a stoplight in class that's modified through jQuery.
+
+**Thoughts:** jQuery seems okay, but I am far more interested in learning vanilla JavaScript. Going to continue working on Eloquent JS (functoins, recursions, and closures, yay!).
+
+**Link to work:** [FEWD-DC30](https://github.com/nleake/FEWD30)
+
+### Day 15: February 17, 2017
+
+**Today's Progress**: Today I worked on my portfolio website and continued studying Javascript. I also watched a YouTube video concerning Hacking the Development Interview and realized how much more I have to learn. A bit intimidating, but, then again, there is always more to learn. Looking forward to continuing to learn JS!
+
+**Thoughts:** bought the domain and hosting for my portfolio website, so that's one step closer to getting that up there. Going to edit the CSS and get the webform working so that people can email me. Then I can start using that for applications and referring people to my own personal site. Yay!
+
+**Link to work:** [FEWD-DC30](https://github.com/nleake/FEWD30)
