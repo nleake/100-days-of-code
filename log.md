@@ -137,4 +137,12 @@
 
 **Thoughts:** bought the domain and hosting for my portfolio website, so that's one step closer to getting that up there. Going to edit the CSS and get the webform working so that people can email me. Then I can start using that for applications and referring people to my own personal site. Yay!
 
-**Link to work:** [FEWD-DC30](https://github.com/nleake/FEWD30)
+**Link to work:** [FEWD-30](https://github.com/nleake/FEWD30)
+
+### Day 16: February 21, 2017
+
+**Today's Progress**: Today I completed the jQuery assignment for my FEWD class. I also built wireframes for a redesign of an application for my work contract.
+
+**Thoughts:** The jQuery assignment was simpler than I thought. Going to try and continue to ready Eloquent JS and will hopefully learn more Javascript tomorrow. Have taken a couple days off from the holiday weekend, but will need to get back into doing this every day. I also need to get the HTML and CSS uploaded for my portfolio, finish the wireframes for that, and write the case studies.
+
+**Link to work:** [FEWD-30](https://github.com/nleake/FEWD30)
