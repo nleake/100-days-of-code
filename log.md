@@ -146,3 +146,11 @@
 **Thoughts:** The jQuery assignment was simpler than I thought. Going to try and continue to ready Eloquent JS and will hopefully learn more Javascript tomorrow. Have taken a couple days off from the holiday weekend, but will need to get back into doing this every day. I also need to get the HTML and CSS uploaded for my portfolio, finish the wireframes for that, and write the case studies.
 
 **Link to work:** [FEWD-30](https://github.com/nleake/FEWD30)
+
+### Day 17: February 22, 2017
+
+**Today's Progress**: Built some different simple Javascript examples in FEWD class and uploaded those to GitHub. I also added the HTML and CSS for my portfolio site main screen.
+
+**Thoughts:** TThe additional jQuery/Javascript exercises were helpful in building lite problem solving habits, using pseudo-code, and commenting our process/solutions. I need to set up the PHP for my web form and add . I also need to get those case studies written and build pages for them!
+
+**Link to work:** [FEWD JS](https://github.com/nleake/FEWD30/tree/master/JS)
