@@ -84,6 +84,7 @@
 
 ### Day 9: February 3, 2017
 
+<<<<<<< HEAD
 **Today's Progress**: Worked on completing the Relaxr site. Added a larger bottom margin to the top container to accommodate smaller screen sizes. Also started reading a 2017 guide to Front-End development.
 
 **Thoughts:** Gonna try to knock out reading this guide, but am going to continue doing freeCodeCamp JS lessons tomorrow. May also try to write the case studies for my portfolio, time permitting.
@@ -154,3 +155,10 @@
 **Thoughts:** TThe additional jQuery/Javascript exercises were helpful in building lite problem solving habits, using pseudo-code, and commenting our process/solutions. I need to set up the PHP for my web form and add . I also need to get those case studies written and build pages for them!
 
 **Link to work:** [FEWD JS](https://github.com/nleake/FEWD30/tree/master/JS)
+=======
+**Today's Progress**: Continued practicing Javascript on freeCodeCamp. Coded a couple of lines to demonstrate the idea of a queue where one number gets added to the end of an array, while the first number gets removed and returned. 
+
+**Thoughts:** Going to try and focus on learning Javascript in my spare time as that should be supplement the HTML/CSS practice I will be getting in the General Assembly class. Busy day at work, so I still have to write those case studies, finish the Udacity course, and do that flexbox walkthrough. However, I do think getting up to speed with Javascript will provide a much greater return in the immediate future. Stay tuned.
+
+**Link to work:** [Javascript Practice](https://github.com/nleake/freeCodeCampExercises)
+>>>>>>> origin/master
