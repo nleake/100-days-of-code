@@ -164,3 +164,11 @@
 **Thoughts:** May flesh out the cash register and temperature conversion applications with more styles and functionality later.
 
 **Link to work:** [Javascript Practice](https://github.com/nleake/FEWD30/tree/master/JS)
+
+### Day 19: February 28, 2017
+
+**Today's Progress**: Learned some basics for Git and how to use the command line to manipulate files and directories
+
+**Thoughts:** Using Bash is awesome. Going to continue to use this from now on.
+
+**Link to work:** [Bash Practice](https://github.com/nleake/command-practice/master)
