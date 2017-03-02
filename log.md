@@ -172,3 +172,12 @@
 **Thoughts:** Using Bash is awesome. Going to continue to use this from now on.
 
 **Link to work:** [Bash Practice](https://github.com/nleake/command-practice/master)
+
+### Day 20: March 1, 2017
+
+**Today's Progress**: Today I added some cool background switching logic to our temperature converter and continued practicing Bash and the command line.
+
+**Thoughts:** Need to style the backgrounds and the text appropriately so that it looks good, but the logic is there.
+
+**Link to work:** [Temperature Converter](https://github.com/nleake/FEWD30/tree/master/JS/convert-temperature)
+
