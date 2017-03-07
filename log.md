@@ -181,3 +181,11 @@
 
 **Link to work:** [Temperature Converter](https://github.com/nleake/FEWD30/tree/master/JS/convert-temperature)
 
+### Day 21: March 6, 2017
+
+**Today's Progress**: Refactored my portfolio site. Updated entries with descriptions and also added a meta description and Google Analytics to the site.
+
+**Thoughts:** Going to continue completing Eloquent Javascript exercises. Still need to hook up the PHP to my form elements.
+
+**Link to work:** [portfolio site](http://www.nickleake.com)
+
