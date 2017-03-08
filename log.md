@@ -189,3 +189,12 @@
 
 **Link to work:** [portfolio site](http://www.nickleake.com)
 
+### Day 22: March 7, 2017
+
+**Today's Progress**: Started a front-end bootcamp online at Udemy to supplement Eloquent JS and freeCodeCamp. So far it's really good and I'm going to get caught up to the Javascript portions that I'm working on with the other two resources. Today I practiced some table and form work from this Udemy course.
+
+**Thoughts:** Enjoying the Udemy course and the extra detail it's going into. Also realized today that I know next to nothing about .NET and C#
+
+**Link to work:** [pokemon data table and forms stuff](https://github.com/nleake/FEWD30/tree/master/sandbox)
+
+
