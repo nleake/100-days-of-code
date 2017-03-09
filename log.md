@@ -198,3 +198,12 @@
 **Link to work:** [pokemon data table and forms stuff](https://github.com/nleake/FEWD30/tree/master/sandbox)
 
 
+### Day 23: March 7, 2017
+
+**Today's Progress**: Practiced building my own responsive layouts and started a toDo web application.
+
+**Thoughts:** Gotta continue with Eloquent JS
+
+**Link to work:** [Javascript Practice](https://github.com/nleake/FEWD30/tree/master/JS)
+
+
