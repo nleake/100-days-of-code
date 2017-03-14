@@ -206,4 +206,13 @@
 
 **Link to work:** [Javascript Practice](https://github.com/nleake/FEWD30/tree/master/JS)
 
+### Day 24: March 13, 2017
+
+**Today's Progress**: Continued practicing with Bootstrap, the command line, and Eloquent JS. Working on modifying arrays. Also installed Node.
+
+**Thoughts:** Gotta continue with Eloquent JS
+
+**Link to work:** [Javascript Practice](https://github.com/nleake/FEWD30/tree/master/JS)
+
+
 
