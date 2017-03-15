@@ -214,5 +214,11 @@
 
 **Link to work:** [Javascript Practice](https://github.com/nleake/FEWD30/tree/master/JS)
 
+### Day 25: March 14, 2017
 
+**Today's Progress**: Finished some homework for Lambda School mini bootcamp (npm install and running tests, yay!). I also created a cat landing page in Bootstrap and re-did some of my colors on the portfolio site. I also added some jQuery.
+
+**Thoughts:** Will continue with Eloquent JavaScript. I've also reached the JavaScript portion of the Udemy course that I'm taking, so that's good. Feels nice to be in strictly JS learning territory on three separate fronts.
+
+**Link to work:** [Purrfect Match](https://github.com/nleake/FEWD30/blob/master/sandbox/bootstrapPractice/landingpage.html)
 
