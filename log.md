@@ -222,3 +222,10 @@
 
 **Link to work:** [Purrfect Match](https://github.com/nleake/FEWD30/blob/master/sandbox/bootstrapPractice/landingpage.html)
 
+### Day 26: March 15, 2017
+
+**Today's Progress**: Added media queries to the matchmaking application and started on the JavaScript for it.
+
+**Thoughts:** Need to do Day 2 and Day 3 of Lambda School homework. Also need to finish the JavaScript for the matchmaking and get a repo up for my final General Assembly project.
+
+**Link to work:** [Startup Matchmaker](https://github.com/nleake/FEWD30/tree/master/startup_matchmaker)
