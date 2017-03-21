@@ -229,3 +229,12 @@
 **Thoughts:** Need to do Day 2 and Day 3 of Lambda School homework. Also need to finish the JavaScript for the matchmaking and get a repo up for my final General Assembly project.
 
 **Link to work:** [Startup Matchmaker](https://github.com/nleake/FEWD30/tree/master/startup_matchmaker)
+
+
+### Day 27: March 20, 2017
+
+**Today's Progress**: Built some forms, finished chapter 4 of Eloquent JS, and am continuing learning on Udemy.
+
+**Thoughts:** Need to finish the Lambda School bootcamp as well before they knock those YT videos down.
+
+**Link to work:** [Registration Form](https://github.com/nleake/FEWD30/tree/master/sandbox/registrationForm)
