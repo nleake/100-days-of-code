@@ -238,3 +238,12 @@
 **Thoughts:** Need to finish the Lambda School bootcamp as well before they knock those YT videos down.
 
 **Link to work:** [Registration Form](https://github.com/nleake/FEWD30/tree/master/sandbox/registrationForm)
+
+### Day 28: March 27, 2017
+
+**Today's Progress**: Today I finished up the CSS for a color picker application and utilized flexbox in my portfolio site.
+
+**Thoughts:** Thinking of adding a skills section to my portfolio site to give it something extra, but we shall see. Going to continue the Udemy course tomorrow. Almost done with GA.
+
+**Link to work:** [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
