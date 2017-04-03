@@ -247,3 +247,18 @@
 
 **Link to work:** [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+### Day 29: March 29, 2017
+
+**Today's Progress**: Today I worked on some CSS and jQuery animations. Also worked on the higher order functions chapter of Eloquent Javascript.
+
+**Thoughts:** Need to practice with the reduce method more. Trying to rotate elements with jQuery is also more difficult than I had anticipated.
+
+**Link to work:** [Higher Order Functions Eloquent JS](http://eloquentjavascript.net/05_higher_order.html
+
+### Day 30: April 4, 2017
+
+**Today's Progress**: Finished the to-do list application in Colt Steele's Web Dev bootcamp. Started on an application using paper.js. Also did some intro work to SASS in FEWD-DC-30.
+
+**Thoughts:** SASS is awesome. Looking forward to completing this Patatap clone project and starting to learn about backend development in the bootcamp :)
+
+**Link to work:** [to-do list application](https://github.com/nleake/FEWD30/tree/master/toDo-Lab)
