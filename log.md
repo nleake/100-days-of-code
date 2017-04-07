@@ -262,3 +262,11 @@
 **Thoughts:** SASS is awesome. Looking forward to completing this Patatap clone project and starting to learn about backend development in the bootcamp :)
 
 **Link to work:** [to-do list application](https://github.com/nleake/FEWD30/tree/master/toDo-Lab)
+
+### Day 31: April 6, 2017
+
+**Today's Progress**: Finished FEWD-DC-30 class. Presented my portfolio project, which was awesome. Today I started learning Node.JS and Express. I built a couple of basic applications to practice routing and different get requests.
+
+**Thoughts:** Express seems really cool. I'm looking forward to learning more about it. I also worked on a couple of algorithm challenges for freeCodeCamp. Shoutouts to Quincy Larson. Also, npm is sweet. Really digging all the command line practice I've been able to get in today working with Node :)
+
+**Link to work:** [to be posted: express apps](https://www.npmjs.com/)
