@@ -270,3 +270,12 @@
 **Thoughts:** Express seems really cool. I'm looking forward to learning more about it. I also worked on a couple of algorithm challenges for freeCodeCamp. Shoutouts to Quincy Larson. Also, npm is sweet. Really digging all the command line practice I've been able to get in today working with Node :)
 
 **Link to work:** [to be posted: express apps](https://www.npmjs.com/)
+
+### Day 32: April 7, 2017
+
+**Today's Progress**: Happy Friday! Today I continued learning Express and how to use partials and public assets in an application. Partials can also be called layouts and can be reusable html such as the header and footer for webpages. Public assets can be things like stylesheets and scripts. Just have to make sure to include them.
+
+**Thoughts:** Still digging learning express. Going to continue working on freeCodeCamp algorithm challenges for JavaScript as well :)
+
+**Link to work:** [My first janky Express app](https://nicksandboxspace-datleek.c9users.io/)
+
