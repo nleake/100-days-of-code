@@ -279,3 +279,10 @@
 
 **Link to work:** [My first janky Express app](https://nicksandboxspace-datleek.c9users.io/)
 
+### Day 33: April 17, 2017
+
+**Today's Progress**: Continued learning Express and started incorporating MongoDB and Mongoose into this YelpCamp application. Learned about SQL vs NoSQL databases.
+
+**Thoughts:** Excited to continue with JS algorithm challeneges and to flesh out this application. Working with databases is cool.
+
+**Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
