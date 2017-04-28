@@ -294,3 +294,12 @@
 **Thoughts:** Need to style the comments and then get the styling of the site completed. So far, so good. It's been a busy few weeks, but good to be back :)
 
 **Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
+
+
+### Day 35: April 28, 2017
+
+**Today's Progress**: Started researching authentication so that I can add auth to this application. Going to create a simple proto application using authenticaion using Passport JS. Also added some additional styles to the show page for the application and comments!
+
+**Thoughts:** Looking forward to learning more about authentication and implementing it. Time to create some sessions and stuff.
+
+**Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
