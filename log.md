@@ -286,3 +286,11 @@
 **Thoughts:** Excited to continue with JS algorithm challeneges and to flesh out this application. Working with databases is cool.
 
 **Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
+
+### Day 34: April 27, 2017
+
+**Today's Progress**: Added comments to YelpCamp application.
+
+**Thoughts:** Need to style the comments and then get the styling of the site completed. So far, so good. It's been a busy few weeks, but good to be back :)
+
+**Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
