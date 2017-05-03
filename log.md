@@ -303,3 +303,11 @@
 **Thoughts:** Looking forward to learning more about authentication and implementing it. Time to create some sessions and stuff.
 
 **Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
+
+### Day 36: May 2, 2017
+
+**Today's Progress**: Continued with adding authentication to the YelpCamp application. Also practiced some more vanilla JS techniques in the browser/using developer tools. Did some additional practice/learning on "this" and changing elements content and changing their properties/classes/etc.
+
+**Thoughts:** Built out a sample application utilizing authentication (passport, passport-mongoose, local, etc). Will finish implementing it into YelpCamp tomorrow.
+
+**Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
