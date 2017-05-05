@@ -311,3 +311,21 @@
 **Thoughts:** Built out a sample application utilizing authentication (passport, passport-mongoose, local, etc). Will finish implementing it into YelpCamp tomorrow.
 
 **Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
+
+
+### Day 37: May 3, 2017
+
+**Today's Progress**: Finished adding authentication to YelpCamp and refactored routes using Express router. Also made sure that users could not add new comments or campgrounds unless they were logged in by writing an isLoggedIn middleware and including that on the create and edit routes for those.
+
+**Thoughts:** Authentication is cool. Also enjoyed learning how to add usernames to comments and created objects. Looking forward to learning more and finishing up this project, then tweaking it to something other than camps. Maybe music or local establishments or something...
+
+**Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
+
+
+### Day 38: May 5, 2017
+
+**Today's Progress**: Adding delete functionality for campgrounds and modifiying authorization so users can only edit and delete their own content.
+
+**Thoughts:** Going to also try to refactor the middleware.
+
+**Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
