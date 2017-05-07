@@ -326,6 +326,15 @@
 
 **Today's Progress**: Adding delete functionality for campgrounds and modifiying authorization so users can only edit and delete their own content.
 
-**Thoughts:** Going to also try to refactor the middleware.
+**Thoughts:** Going to also try to refactor the middleware. Authorization involved hiding the edit and delete buttons, as well as guarding their routes from folks who are not logged in.
 
 **Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
+
+
+### Day 39: May 7, 2017
+
+**Today's Progress**: Adding edit functionality for comments on each campground. Added the routes for editing and putting the updated comments. Also, completed a JavaScript Essentials course on Udemy that does a great job of introducing students to the basics of editing JavaScript live in the browser and manipulating the DOM.
+
+**Thoughts:** Will be adding the delete route for comments and providing authorization for the editing and deleting functionality next. Going to keep learnign node and try to finish up the basic algorithm challenges on freeCodeCamp!
+
+**Link to work:** [JavaScript Essentials](udemy.com/javascript-essentials)
