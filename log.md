@@ -338,3 +338,12 @@
 **Thoughts:** Will be adding the delete route for comments and providing authorization for the editing and deleting functionality next. Going to keep learnign node and try to finish up the basic algorithm challenges on freeCodeCamp!
 
 **Link to work:** [JavaScript Essentials](udemy.com/javascript-essentials)
+
+
+### Day 40: May 8, 2017
+
+**Today's Progress**: Finished up edit and destroy functionality for comments as well as authorization. Also broke out the middleware into a separate module to include to DRY up the code a bit. Started adding flash messaging for feedback to the users as well as practiced some with the filter method for arrays.
+
+**Thoughts:** Will finish up flash messaging tomorrow and try to get some more algorithm challenges done in FCC.
+
+**Link to work:** [freeCodeCamp](udemy.com/the-web-developer-bootcamp)
