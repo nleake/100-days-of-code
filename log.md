@@ -347,3 +347,13 @@
 **Thoughts:** Will finish up flash messaging tomorrow and try to get some more algorithm challenges done in FCC.
 
 **Link to work:** [freeCodeCamp](udemy.com/the-web-developer-bootcamp)
+
+
+### Day 41: May 9, 2017
+
+**Today's Progress**: Added flash messaging to my application using connect-flash. Now to continue cleaning up the UI!
+
+**Thoughts:** npm is awesome, flash messaging is easier to use than I anticipated and hooks in with Bootstrap alerts nicely.
+
+**Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
+
