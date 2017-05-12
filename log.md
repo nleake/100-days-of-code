@@ -360,9 +360,9 @@
 
 ### Day 42: May 12, 2017
 
-**Today's Progress**: Cleaned up the UI some to make the landing page beautiful and have a slideshow of images that fade in and out every five seconds
+**Today's Progress**: Cleaned up the UI some to make the landing page beautiful and have a slideshow of images that fade in and out every five seconds. Also learned how to set up Node applications from cloud9 and use Heroku to launch an application.
 
-**Thoughts:** going to refactor the wedding website with some of these enhancements. Also learned I should use present tense in commit messages goning fowward. So really, learn I shoudl use present tense in commit messages. Who knew??!
+**Thoughts:** going to refactor the wedding website with some of these enhancements. Also learned I should use present tense in commit messages goning fowward. So really, learn I shoudl use present tense in commit messages. Who knew??! Heroku is not too hard to use, or so it seems...
 
 **Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
 
