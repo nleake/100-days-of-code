@@ -357,3 +357,12 @@
 
 **Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
 
+
+### Day 42: May 12, 2017
+
+**Today's Progress**: Cleaned up the UI some to make the landing page beautiful and have a slideshow of images that fade in and out every five seconds
+
+**Thoughts:** going to refactor the wedding website with some of these enhancements. Also learned I should use present tense in commit messages goning fowward. So really, learn I shoudl use present tense in commit messages. Who knew??!
+
+**Link to work:** [YelpCamp app in progress](https://nicksandboxspace-datleek.c9users.io/)
+
