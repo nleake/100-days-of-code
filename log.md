@@ -371,7 +371,16 @@
 
 **Today's Progress**: Practiced using SASS and am nearly done with building a to-do list application in vanilla JS. Also started trying to learn Angular.
 
-**Thoughts:** gMay need to go over ES2015 and ES6 rules and updates before I continue with the Angular course. I will also complete the vanilla JS to-do list tomorrow.
+**Thoughts:** May need to go over ES2015 and ES6 rules and updates before I continue with the Angular course. I will also complete the vanilla JS to-do list tomorrow.
+
+**Link to work:** [Plnkr for to-do](http://plnkr.co/edit/U5VxbF6kKNczBUiwjgiB)
+
+
+### Day 44: May 18, 2017
+
+**Today's Progress**: Refactor todo list application to use new object methods and onclick html attribute to DRY the code up a bit.
+
+**Thoughts:**
 
 **Link to work:** [Plnkr for to-do](http://plnkr.co/edit/U5VxbF6kKNczBUiwjgiB)
 
