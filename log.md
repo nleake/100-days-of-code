@@ -380,7 +380,15 @@
 
 **Today's Progress**: Refactor todo list application to use new object methods and onclick html attribute to DRY the code up a bit.
 
-**Thoughts:**
+**Thoughts:** Looking forward to finishing up this todo list.
 
 **Link to work:** [Plnkr for to-do](http://plnkr.co/edit/U5VxbF6kKNczBUiwjgiB)
 
+
+### Day 45: May 22, 2017
+
+**Today's Progress**: Finished up Practical JavaScript course and todo list application written in vanilla JS there.
+
+**Thoughts:** Found Practical Javascript to be helpful. Will need to refactor the todo list moving forward and make it attractive as it's fairly ugly right now.
+
+**Link to work:** [Vanilla JS to-do](https://glitch.com/edit/#!/abounding-pan)
