@@ -392,3 +392,12 @@
 **Thoughts:** Found Practical Javascript to be helpful. Will need to refactor the todo list moving forward and make it attractive as it's fairly ugly right now.
 
 **Link to work:** [Vanilla JS to-do](https://glitch.com/edit/#!/abounding-pan)
+
+
+### Day 46: May 24, 2017
+
+**Today's Progress**: Finished up The Web Developer Bootcamp on Udemy with Colt Steele. Very awesome class. Today we went over Object Oriented Programming (OOP) and closures. Continuing to practice with HTML, CSS, and JavaScript.
+
+**Thoughts:** Going to knock out this other web development course and try and learn Angular. Had a coding interview yesterday for a job using a lot of Angular; a very humbling experience.
+
+**Link to work:** [Angular Test](http://codepen.io/eab_ui_hiring/pen/OXLVpp/)
