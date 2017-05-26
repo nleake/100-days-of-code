@@ -401,3 +401,19 @@
 **Thoughts:** Going to knock out this other web development course and try and learn Angular. Had a coding interview yesterday for a job using a lot of Angular; a very humbling experience.
 
 **Link to work:** [Angular Test](http://codepen.io/eab_ui_hiring/pen/OXLVpp/)
+
+### Day 47: May 25, 2017
+
+**Today's Progress**: Added YelpCamp and To-do list to my portfolio site.
+
+**Thoughts:** Will refactor YelpCamp to add maps and moment js tomorrow.
+
+**Link to work:** [portfolio site](http://nickleake.com/)
+
+### Day 48: May 26, 2017
+
+**Today's Progress**: Refactor YelpCamp to add Google Maps and Moment JS for new posts and comments.
+
+**Thoughts:** Need to continue practicing to stay sharp on CSS and building things from scratch. Going to really grind on SQL and Angular going forward as well.
+
+**Link to work:** [Yelp Camp](https://cryptic-shelf-19427.herokuapp.com/)
