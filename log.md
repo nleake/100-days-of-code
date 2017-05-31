@@ -417,3 +417,11 @@
 **Thoughts:** Need to continue practicing to stay sharp on CSS and building things from scratch. Going to really grind on SQL and Angular going forward as well.
 
 **Link to work:** [Yelp Camp](https://cryptic-shelf-19427.herokuapp.com/)
+
+### Day 49: May 31, 2017
+
+**Today's Progress**: Create two random quote generators: one using an API, and another using an array of quotes and an array of authors with a random number generator.
+
+**Thoughts:** Next project is to utilize a weather API to create a weather page. Will be continuing in these other web developer courses and continuing to learn Angular, Node, and MySQL.
+
+**Link to work:** [Random Quote Generator](https://codepen.io/lichi/pen/bWXVGb)
