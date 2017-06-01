@@ -425,3 +425,11 @@
 **Thoughts:** Next project is to utilize a weather API to create a weather page. Will be continuing in these other web developer courses and continuing to learn Angular, Node, and MySQL.
 
 **Link to work:** [Random Quote Generator](https://codepen.io/lichi/pen/bWXVGb)
+
+### Day 50: June 1, 2017
+
+**Today's Progress**: Continue practicing JavaScript and MySQL. Finished up BBC article mockup for now.
+
+**Thoughts:** Next project is to utilize a weather API to create a weather page. Will be continuing in these other web developer courses and continuing to learn Angular, Node, and MySQL.
+
+**Link to work:** [BBC article clone](https://codepen.io/lichi/pen/JNVBqo)
