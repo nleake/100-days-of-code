@@ -433,3 +433,12 @@
 **Thoughts:** Next project is to utilize a weather API to create a weather page. Will be continuing in these other web developer courses and continuing to learn Angular, Node, and MySQL.
 
 **Link to work:** [BBC article clone](https://codepen.io/lichi/pen/JNVBqo)
+
+
+### Day 51: June 2, 2017
+
+**Today's Progress**: Built a couple of Code Pens for a reaction testing game and a number guessing game. Still need to start this weather API project ;)
+
+**Thoughts:** Next project is to utilize a weather API to create a weather page. Will be continuing in these other web developer courses and continuing to learn Angular, Node, and MySQL.
+
+**Link to work:** [Test your reactions](https://codepen.io/lichi/pen/bRGery)
