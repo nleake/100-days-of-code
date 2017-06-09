@@ -442,3 +442,12 @@
 **Thoughts:** Next project is to utilize a weather API to create a weather page. Will be continuing in these other web developer courses and continuing to learn Angular, Node, and MySQL.
 
 **Link to work:** [Test your reactions](https://codepen.io/lichi/pen/bRGery)
+
+
+### Day 52: June 9, 2017
+
+**Today's Progress**: Worked on a weather API application. Practiced coding patterns for modular JS. Overview of ES6 features.
+
+**Thoughts:** Practice using ES6 features from here on out. Work out the CORS problem with the weather API project. Continue learning Angular JS and MySQL.
+
+**Link to work:** [get local weather](https://codepen.io/lichi/pen/OgPogK)
