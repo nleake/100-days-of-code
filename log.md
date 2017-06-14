@@ -451,3 +451,11 @@
 **Thoughts:** Practice using ES6 features from here on out. Work out the CORS problem with the weather API project. Continue learning Angular JS and MySQL.
 
 **Link to work:** [get local weather](https://codepen.io/lichi/pen/OgPogK)
+
+### Day 53: June 14, 2017
+
+**Today's Progress**: Construct components for recipe app utilizing Angular. Build header, recipe list, shopping list, recipe detail/item, shopping list edit.
+
+**Thoughts:** Practicing Angular is helping me get the hang of it. Using Emmet and TypeScript is crazy with the amount of keyboard shortcuts. Using VS Code has been fun so far as well.
+
+**Link to work:** [placeholder until app is online](https://google.com)
