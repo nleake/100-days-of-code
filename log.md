@@ -459,3 +459,11 @@
 **Thoughts:** Practicing Angular is helping me get the hang of it. Using Emmet and TypeScript is crazy with the amount of keyboard shortcuts. Using VS Code has been fun so far as well.
 
 **Link to work:** [placeholder until app is online](https://google.com)
+
+### Day 54: June 26, 2017
+
+**Today's Progress**: Learned about life cycle hooks and content projection in Angular.
+
+**Thoughts:** Going to have to do a lot more reading and practicing with ng-content and these lifecycle hooks before I feel comfortable.
+
+**Link to work:** [placeholder until app is online](https://google.com)
