@@ -467,3 +467,11 @@
 **Thoughts:** Going to have to do a lot more reading and practicing with ng-content and these lifecycle hooks before I feel comfortable.
 
 **Link to work:** [placeholder until app is online](https://google.com)
+
+### Day 55: July 28, 2017
+
+**Today's Progress**: Built CodePlayer using jQuery.
+
+**Thoughts:** Going to have to get back into the swing of things. Took a month off due to vacation and hectic amounts of work.
+
+**Link to work:** [placeholder until app is online](https://google.com)
