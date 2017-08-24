@@ -475,3 +475,11 @@
 **Thoughts:** Going to have to get back into the swing of things. Took a month off due to vacation and hectic amounts of work.
 
 **Link to work:** [placeholder until app is online](https://google.com)
+
+### Day 56: August 24, 2017
+
+**Today's Progress**: MySQL bootcamp and building databases
+
+**Thoughts:** SQL is cool and easy to learn so far. Colt has done a great job of explaining it.
+
+**Link to work:** [placeholder until app is online](https://udemy.com/the-ultimate-mysql-bootcamp-go-rom-sql-beginner-to-expert/)
