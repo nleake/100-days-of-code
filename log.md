@@ -483,3 +483,11 @@
 **Thoughts:** SQL is cool and easy to learn so far. Colt has done a great job of explaining it.
 
 **Link to work:** [placeholder until app is online](https://udemy.com/the-ultimate-mysql-bootcamp-go-rom-sql-beginner-to-expert/)
+
+### Day 57: September 29, 2017
+
+**Today's Progress**: MySQL bootcamp and building databases. Went over aggregate functions, datetime, and logical operators.
+
+**Thoughts:** SQL is cool and easy to learn so far. Colt has done a great job of explaining it. I look forward to finishing this bootcamp and building out an application using MySQL.
+
+**Link to work:** [placeholder until app is online](https://udemy.com/the-ultimate-mysql-bootcamp-go-rom-sql-beginner-to-expert/)
