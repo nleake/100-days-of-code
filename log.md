@@ -491,3 +491,11 @@
 **Thoughts:** SQL is cool and easy to learn so far. Colt has done a great job of explaining it. I look forward to finishing this bootcamp and building out an application using MySQL.
 
 **Link to work:** [placeholder until app is online](https://udemy.com/the-ultimate-mysql-bootcamp-go-rom-sql-beginner-to-expert/)
+
+### Day 58: October 21, 2017
+
+**Today's Progress**: Working on cloning Instagram database in MySQL and installed my first Linux VM.
+
+**Thoughts:** Going to learn Ruby, React, and finish up the MySQL bootcamp. Very excited.
+
+**Link to work:** [placeholder until app is online](https://udemy.com/the-ultimate-mysql-bootcamp-go-rom-sql-beginner-to-expert/)
