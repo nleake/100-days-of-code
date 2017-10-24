@@ -499,3 +499,11 @@
 **Thoughts:** Going to learn Ruby, React, and finish up the MySQL bootcamp. Very excited.
 
 **Link to work:** [placeholder until app is online](https://udemy.com/the-ultimate-mysql-bootcamp-go-rom-sql-beginner-to-expert/)
+
+### Day 59: October 23, 2017
+
+**Today's Progress**: review flexbox and git workflows
+
+**Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp. Very excited.
+
+**Link to work:** [git_test](https://github.com/nleake/git_test)
