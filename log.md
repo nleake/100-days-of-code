@@ -507,3 +507,11 @@
 **Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp. Very excited.
 
 **Link to work:** [git_test](https://github.com/nleake/git_test)
+
+### Day 60: October 25, 2017
+
+**Today's Progress**: review css grid and css typography and box model
+
+**Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp. Very excited.
+
+**Link to work:** [git_test](https://github.com/nleake/git_test)
