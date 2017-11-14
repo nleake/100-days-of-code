@@ -516,9 +516,17 @@
 
 **Link to work:** [git_test](https://github.com/nleake/git_test)
 
-### Day 61: October 25, 2017
+### Day 61: November 3, 2017
 
 **Today's Progress**: practice with ES6 modules, classes, requests, and OOP. Also started Ruby.
+
+**Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
+
+**Link to work:** [codecademy](https://www.codecademy.com/articles/google-api)
+
+### Day 62: November 13, 2017
+
+**Today's Progress**: learned about async, await and fetch AJAX functions
 
 **Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
 
