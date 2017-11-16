@@ -531,3 +531,12 @@
 **Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
 
 **Link to work:** [codecademy](https://www.codecademy.com/articles/google-api)
+
+
+### Day 63: November 15, 2017
+
+**Today's Progress**: Built a etch-a-sketch project off Odin Project
+
+**Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
+
+**Link to work:** [etchasketch](https://github.com/nleake/etchasketch)
