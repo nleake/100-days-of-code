@@ -540,3 +540,11 @@
 **Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
 
 **Link to work:** [etchasketch](https://github.com/nleake/etchasketch)
+
+### Day 64: November 17, 2017
+
+**Today's Progress**: Built a drum kit as well as a JS/CSS clock for Wes Bos' #JS30
+
+**Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
+
+**Link to work:** [js drum kit](https://github.com/nleake/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
