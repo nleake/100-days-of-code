@@ -548,3 +548,11 @@
 **Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
 
 **Link to work:** [js drum kit](https://github.com/nleake/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+
+### Day 65: November 20, 2017
+
+**Today's Progress**: Built a random user generator using fetch API
+
+**Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
+
+**Link to work:** [random user generator pen](https://codepen.io/lichi/pen/POQLjr?editors=0010#0)
