@@ -556,3 +556,11 @@
 **Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
 
 **Link to work:** [random user generator pen](https://codepen.io/lichi/pen/POQLjr?editors=0010#0)
+
+### Day 66: November 25, 2017
+
+**Today's Progress**: Read Chris Pine's book on Ruby. Practice Ruby using the JavaScript exercises from earlier.
+
+**Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
+
+**Link to work:** [random user generator pen](https://codepen.io/lichi/pen/POQLjr?editors=0010#0)
