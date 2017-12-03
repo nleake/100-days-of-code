@@ -564,3 +564,11 @@
 **Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
 
 **Link to work:** [random user generator pen](https://codepen.io/lichi/pen/POQLjr?editors=0010#0)
+
+### Day 67: December 2, 2017
+
+**Today's Progress**: Practiced OOP and advanced array methods for JavaScript. Also finished Medium post on keyword 'this'.
+
+**Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
+
+**Link to work:** [js what is this post](https://medium.com/@nick_leake/javascript-what-is-this-48fe10c2ab1b)
