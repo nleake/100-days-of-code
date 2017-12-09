@@ -572,3 +572,11 @@
 **Thoughts:** will learn Ruby, React, and finish up the MySQL bootcamp as well as advanced developer bootcamp.
 
 **Link to work:** [js what is this post](https://medium.com/@nick_leake/javascript-what-is-this-48fe10c2ab1b)
+
+### Day 68: December 9, 2017
+
+**Today's Progress**: Start learning React. Learn about maps, sets,  async/awai, classes, inherit /extends, super, destructuring objects and arrays, and promises.
+
+**Thoughts:** continue React, and finish up the MySQL bootcamp as well as advanced developer bootcamp. Learn Ruby later.
+
+**Link to work:** [REACT START](https://medium.com/@nick_leake/javascript-what-is-this-48fe10c2ab1b)
