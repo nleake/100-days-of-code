@@ -580,3 +580,11 @@
 **Thoughts:** continue React, and finish up the MySQL bootcamp as well as advanced developer bootcamp. Learn Ruby later.
 
 **Link to work:** [REACT START](https://medium.com/@nick_leake/javascript-what-is-this-48fe10c2ab1b)
+
+### Day 69: December 10, 2017
+
+**Today's Progress**: Continuing to learn React. Built Wikipedia viewer from FreeCodeCamp intermediate challenges.
+
+**Thoughts:** continue React, and finish up the MySQL bootcamp as well as advanced developer bootcamp. Learn Ruby later.
+
+**Link to work:** [Wikipedia Viewer](https://codepen.io/lichi/pen/YEoLxO?editors=0010)
