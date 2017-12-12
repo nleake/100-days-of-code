@@ -588,3 +588,11 @@
 **Thoughts:** continue React, and finish up the MySQL bootcamp as well as advanced developer bootcamp. Learn Ruby later.
 
 **Link to work:** [Wikipedia Viewer](https://codepen.io/lichi/pen/YEoLxO?editors=0010)
+
+### Day 70: December 11, 2017
+
+**Today's Progress**: Continuing to learn React. Learned about setState and importance of pure functions.
+
+**Thoughts:** continue React, and finish up the MySQL bootcamp as well as advanced developer bootcamp. Learn Ruby later.
+
+**Link to work:** [React Advent Cal](https://react.holiday/2017/6/)
