@@ -596,3 +596,11 @@
 **Thoughts:** continue React, and finish up the MySQL bootcamp as well as advanced developer bootcamp. Learn Ruby later.
 
 **Link to work:** [React Advent Cal](https://react.holiday/2017/6/)
+
+### Day 71: December 14, 2017
+
+**Today's Progress**: Continuing to learn React. Learning to manage forms and state. Built React todo list. Also working JS challenges from Odin Project.
+
+**Thoughts:** continue React, and finish up the MySQL bootcamp as well as advanced developer bootcamp. Learn Ruby later.
+
+**Link to work:** [JS Exercises](https://github.com/nleake/odin-project-js)
