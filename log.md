@@ -604,3 +604,27 @@
 **Thoughts:** continue React, and finish up the MySQL bootcamp as well as advanced developer bootcamp. Learn Ruby later.
 
 **Link to work:** [JS Exercises](https://github.com/nleake/odin-project-js)
+
+### Day 72: December 21, 2017
+
+**Today's Progress**: Created shopping list application in React. Learning about component lifecycle functions and working on a random flag guessing game.
+
+**Thoughts:** continue React, and finish up the MySQL bootcamp as well as advanced developer bootcamp. Learn Ruby later.
+
+**Link to work:** [React Shopping List](https://codepen.io/lichi/pen/jYraeo?editors=0010)
+
+### Day 72: December 22, 2017
+
+**Today's Progress**: Created shopping list application in React. Learning about component lifecycle functions and working on a random flag guessing game.
+
+**Thoughts:** continue React, and finish up the MySQL bootcamp as well as advanced developer bootcamp. Learn Ruby later.
+
+**Link to work:** [React Shopping List](https://codepen.io/lichi/pen/jYraeo?editors=0010)
+
+### Day 72: January 5, 2017
+
+**Today's Progress**: Update portfolio page and created rock paper scissors game algorithms. 
+
+**Thoughts:** will add some buttons and an HTML interface to it next.
+
+**Link to work:** [Rock Paper Scissors](https://github.com/nleake/odin-js-rockPaperScissors)
