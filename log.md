@@ -613,7 +613,7 @@
 
 **Link to work:** [React Shopping List](https://codepen.io/lichi/pen/jYraeo?editors=0010)
 
-### Day 72: December 22, 2017
+### Day 73: December 22, 2017
 
 **Today's Progress**: Created shopping list application in React. Learning about component lifecycle functions and working on a random flag guessing game.
 
@@ -621,10 +621,18 @@
 
 **Link to work:** [React Shopping List](https://codepen.io/lichi/pen/jYraeo?editors=0010)
 
-### Day 72: January 5, 2017
+### Day 74: January 5, 2017
 
-**Today's Progress**: Update portfolio page and created rock paper scissors game algorithms. 
+**Today's Progress**: Update portfolio page and created rock paper scissors game algorithms.
 
 **Thoughts:** will add some buttons and an HTML interface to it next.
 
 **Link to work:** [Rock Paper Scissors](https://github.com/nleake/odin-js-rockPaperScissors)
+
+### Day 75: January 5, 2017
+
+**Today's Progress**: finished up ch 5 in the @RailsTutorial
+
+**Thoughts:** wDigging learning Rugby on Rails so far. Look forward to finishing this book by Michael Hartl.
+
+**Link to work:** [Ruby on Rails Tutorial](http://www.railstutorial.org/ )
