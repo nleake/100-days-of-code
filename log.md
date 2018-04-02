@@ -629,10 +629,18 @@
 
 **Link to work:** [Rock Paper Scissors](https://github.com/nleake/odin-js-rockPaperScissors)
 
-### Day 75: January 5, 2017
+### Day 75: March 15, 2017
 
 **Today's Progress**: finished up ch 5 in the @RailsTutorial
 
 **Thoughts:** wDigging learning Rugby on Rails so far. Look forward to finishing this book by Michael Hartl.
 
 **Link to work:** [Ruby on Rails Tutorial](http://www.railstutorial.org/ )
+
+### Day 76: April 1, 2017
+
+**Today's Progress**: finished finding Symmetric Differences in arrays algorithm challenge on FreeCodeCamp
+
+**Thoughts:** this algorithm challenge was hard as hell, but I made sure I understood it before moving on.
+
+**Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/challenges/symmetric-difference)
