@@ -621,7 +621,7 @@
 
 **Link to work:** [React Shopping List](https://codepen.io/lichi/pen/jYraeo?editors=0010)
 
-### Day 74: January 5, 2017
+### Day 74: January 5, 2018
 
 **Today's Progress**: Update portfolio page and created rock paper scissors game algorithms.
 
@@ -629,7 +629,7 @@
 
 **Link to work:** [Rock Paper Scissors](https://github.com/nleake/odin-js-rockPaperScissors)
 
-### Day 75: March 15, 2017
+### Day 75: March 15, 2018
 
 **Today's Progress**: finished up ch 5 in the @RailsTutorial
 
@@ -637,10 +637,26 @@
 
 **Link to work:** [Ruby on Rails Tutorial](http://www.railstutorial.org/ )
 
-### Day 76: April 1, 2017
+### Day 76: April 1, 2018
 
 **Today's Progress**: finished finding Symmetric Differences in arrays algorithm challenge on FreeCodeCamp
 
 **Thoughts:** this algorithm challenge was hard as hell, but I made sure I understood it before moving on.
 
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.org/challenges/symmetric-difference)
+
+### Day 77: April 9, 2018
+
+**Today's Progress**: day one of Tyler McGinnis React BootCamp. Continue working on Ruby Koans.
+
+**Thoughts:** aim to finish up Ruby Koans this week.
+
+**Link to work:** [Tyler McGinnis React BootCamp](https://github.com/nleake/tylermcginnis-react)
+
+### Day 78: April 10, 2018
+
+**Today's Progress**: day two of Tyler McGinnis React BootCamp. Continue working on Ruby Koans.
+
+**Thoughts:** aim to finish up Ruby Koans this week.
+
+**Link to work:** [Tyler McGinnis React BootCamp](https://github.com/nleake/tylermcginnis-react)
